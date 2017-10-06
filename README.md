@@ -1,6 +1,6 @@
 # Youtube Emulator
 
-Created a Youtube using Youtubes API & Reatc. Learned from Stephen Grider's class on Udemy [Redux](https://www.udemy.com/react-redux/)?
+Created a Youtube emulator using Youtubes API & Reatc. Learned from Stephen Grider's class on Udemy [Redux](https://www.udemy.com/react-redux/)?
 
 
 #### Familiar with Git?
